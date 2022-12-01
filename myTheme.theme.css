@@ -1319,7 +1319,7 @@ body,
 }
 
 .guildSeparator-33mFX6 {
-	height: auto !important;
+	height: 50;
 	border-radius: 0;
 }
 
@@ -1873,9 +1873,9 @@ platform-osx .app-3xd6d0 {
     max-width: 400px;
 }
 .guilds-2JjMmN{
-    margin-left: -1px;
+    margin-left: -59px;
 
 }
 .guilds-2JjMmN{
-    width: 70px;
+    width: 200px;
 }
