@@ -1200,9 +1200,9 @@ body,
 	height: 36px;
 }
 
-/*div[id*="folder-items"] {
+div[id*="folder-items"] {
 	height: auto !important;
-}*/
+}
 
 .sidebar-1tnWFu {
 	border-radius: 0 !important;
